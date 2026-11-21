@@ -28,6 +28,6 @@ Python · JavaScript and Node · Playwright · SQL and data analysis · GitHub A
 
 ### Find me
 
-[omarhamdy.com](https://omarhamdy.com/?src=github-readme) · [LinkedIn](https://www.linkedin.com/in/omrhamdy) · [ORCID 0009-0007-6613-8968](https://orcid.org/0009-0007-6613-8968) · [Book a 30-minute call](https://calendly.com/omar-omarhamdy/30min?utm_source=github)
+[omarhamdy.com](https://omarhamdy.com/?src=github-readme) · [LinkedIn](https://www.linkedin.com/in/omrhamdy) · [ORCID 0009-0007-6613-8968](https://orcid.org/0009-0007-6613-8968) · [HackerNoon](https://hackernoon.com/u/omarhamdy) · [Book a 30-minute call](https://calendly.com/omar-omarhamdy/30min?utm_source=github)
 
 <sub>Views are my own.</sub>
